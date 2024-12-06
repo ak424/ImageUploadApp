@@ -1,0 +1,30 @@
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/SwiftUI.swift":
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.d"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.swiftconstvalues"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.swiftdeps"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.o"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.dia"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/Util.swift":
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.d"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.o"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.swiftconstvalues"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.dia"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.swiftdeps"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/SortDescriptor.swift":
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.dia"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.o"
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.d"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.swiftconstvalues"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.swiftdeps"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/SectionedResults.swift":
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.dia"
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.d"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.swiftdeps"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.o"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.swiftconstvalues"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/ThreadSafeReference.swift":
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.dia"
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.d"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.o"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.swiftdeps"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.swiftconstvalues"

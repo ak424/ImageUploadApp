@@ -1,0 +1,36 @@
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/ObjectiveCSupport.swift":
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.o"
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.d"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.swiftconstvalues"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.dia"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.swiftdeps"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/Object.swift":
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.swiftdeps"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.swiftconstvalues"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.o"
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.d"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.dia"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/ObjectId.swift":
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.d"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.o"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.swiftconstvalues"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.swiftdeps"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.dia"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/ObjectiveCSupport+AnyRealmValue.swift":
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.swiftconstvalues"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.dia"
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.d"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.o"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.swiftdeps"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/ObjectSchema.swift":
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.swiftdeps"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.dia"
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.d"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.o"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.swiftconstvalues"
+"/Users/hungerbox/Desktop/SpyneAssignment/Pods/RealmSwift/RealmSwift/Optional.swift":
+  dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.d"
+  swift-dependencies: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.swiftdeps"
+  object: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.o"
+  diagnostics: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.dia"
+  const-values: "/Users/hungerbox/Desktop/SpyneAssignment/build/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.swiftconstvalues"

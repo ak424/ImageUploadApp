@@ -1,0 +1,6 @@
+framework module Pods_SpyneAssignment {
+  umbrella header "Pods-SpyneAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

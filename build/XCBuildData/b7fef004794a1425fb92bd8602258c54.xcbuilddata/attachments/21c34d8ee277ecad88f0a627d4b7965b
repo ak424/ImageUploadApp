@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SpyneAssignment-master.dia",
+    "emit-module-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SpyneAssignment-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SpyneAssignment-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SpyneAssignment-master.swiftdeps"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/SpyneAssignment/AppDelegate.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/SpyneAssignment/ImageCell.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageCell~partial.swiftmodule"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/SpyneAssignment/ImageManager.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ImageManager~partial.swiftmodule"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/SpyneAssignment/RealmDBManager.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/RealmDBManager~partial.swiftmodule"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/SpyneAssignment/SceneDelegate.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/SpyneAssignment/UploadManager.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/UploadManager~partial.swiftmodule"
+  },
+  "/Users/hungerbox/Desktop/SpyneAssignment/SpyneAssignment/ViewController.swift" : {
+    "const-values" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/hungerbox/Desktop/SpyneAssignment/build/SpyneAssignment.build/Debug-iphoneos/SpyneAssignment.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  }
+}

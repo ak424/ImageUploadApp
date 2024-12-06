@@ -1,0 +1,16 @@
+Target dependency graph (6 targets)
+Target 'SpyneAssignment' in project 'SpyneAssignment'
+➜ Implicit dependency on target 'Pods-SpyneAssignment' in project 'Pods' via file 'Pods_SpyneAssignment.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Realm' in project 'Pods' via options '-framework Realm' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'RealmSwift' in project 'Pods' via options '-framework RealmSwift' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-SpyneAssignment' in project 'Pods'
+➜ Explicit dependency on target 'Realm' in project 'Pods'
+➜ Explicit dependency on target 'RealmSwift' in project 'Pods'
+Target 'RealmSwift' in project 'Pods'
+➜ Explicit dependency on target 'Realm' in project 'Pods'
+➜ Explicit dependency on target 'RealmSwift-realm_swift_privacy' in project 'Pods'
+Target 'RealmSwift-realm_swift_privacy' in project 'Pods'
+➜ Implicit dependency on target 'Realm' in project 'Pods' via options '-framework Realm' in build setting 'OTHER_LDFLAGS'
+Target 'Realm' in project 'Pods'
+➜ Explicit dependency on target 'Realm-realm_objc_privacy' in project 'Pods'
+Target 'Realm-realm_objc_privacy' in project 'Pods' (no dependencies)
